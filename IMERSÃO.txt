@@ -1,0 +1,11 @@
+-------Dia 1-------
+
+Endpoint = ponto que eu posso consumir 
+
+
+Parser para JAVA (POJO) = conveter um JSON para JAVA podemos usar (Jackson ou Gson, que são bibliotecas)
+
+Para estilizar saida do terminal temos que usar padrão unicode
+
+------Dia 2-------------
+
